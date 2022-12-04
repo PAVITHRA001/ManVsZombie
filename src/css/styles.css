@@ -63,13 +63,25 @@
     -webkit-transition: all 0.50s;
     transition: all 0.50s;}
 
-.ImageSelectedLeft {
+.ImageLeft {
+    width: 56%;
+    margin-left:-5%;
+    animation: rotationLeft 1.5s infinite;
+}
+
+.ImageSelectedLeft{
     width: 30%;
+    margin-right: 30%;
     transform: rotate(90deg);
 }
 
-.ImageSelectedRight {
-    width: 100%;
+.ImageRight {
+    width: 30%;
+    animation: rotationRight 1.5s infinite;
+}
+
+.ImageSelectedRight{
+    width: 30%;
     transform: rotate(-90deg);
 }
 
@@ -144,3 +156,21 @@
 }
 
 
+@keyframes rotationLeft {
+    from {
+        transform: rotate(-30deg);
+    }
+    to {
+        transform: rotate(30deg);
+    }
+}
+
+
+@keyframes rotationRight {
+    from {
+        transform: rotate(-20deg);
+    }
+    to {
+        transform: rotate(-100deg);
+    }
+}
