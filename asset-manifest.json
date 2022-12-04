@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ManVsZombie/static/css/main.472a2921.css",
+    "main.js": "/ManVsZombie/static/js/main.2b22cf9a.js",
+    "static/js/787.6b567aa5.chunk.js": "/ManVsZombie/static/js/787.6b567aa5.chunk.js",
+    "static/media/Claps.wav": "/ManVsZombie/static/media/Claps.20d76b2e1dca2d849373.wav",
+    "static/media/Celebrations.png": "/ManVsZombie/static/media/Celebrations.c3bd68b8d8e37ef90f06.png",
+    "static/media/Tie.png": "/ManVsZombie/static/media/Tie.4aff04f5b838d4180d36.png",
+    "static/media/zombie.png": "/ManVsZombie/static/media/zombie.739530df70373467a8f2.png",
+    "static/media/Paper2.png": "/ManVsZombie/static/media/Paper2.a3aa9a788a1820a75e86.png",
+    "static/media/Rock2.png": "/ManVsZombie/static/media/Rock2.60beeb3afeecf2536ccc.png",
+    "static/media/Scissor2.png": "/ManVsZombie/static/media/Scissor2.2cf0faaad6a72a074bd5.png",
+    "static/media/zombiescissor.png": "/ManVsZombie/static/media/zombiescissor.ec5db4b105b639659c9f.png",
+    "static/media/zombierock.png": "/ManVsZombie/static/media/zombierock.d4be932b416720160b67.png",
+    "static/media/zombiepaper.png": "/ManVsZombie/static/media/zombiepaper.61a776fc6d49b2a049dd.png",
+    "static/media/Tie.mp3": "/ManVsZombie/static/media/Tie.9f98153eb6418b6161a6.mp3",
+    "static/media/zombieeating.mp3": "/ManVsZombie/static/media/zombieeating.44a1f50353c8b571688b.mp3",
+    "index.html": "/ManVsZombie/index.html",
+    "main.472a2921.css.map": "/ManVsZombie/static/css/main.472a2921.css.map",
+    "main.2b22cf9a.js.map": "/ManVsZombie/static/js/main.2b22cf9a.js.map",
+    "787.6b567aa5.chunk.js.map": "/ManVsZombie/static/js/787.6b567aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472a2921.css",
+    "static/js/main.2b22cf9a.js"
+  ]
+}
